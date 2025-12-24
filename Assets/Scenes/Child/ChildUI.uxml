@@ -1,0 +1,28 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/StyleSheets/Guardian/GuardianMain.uss?fileID=7433441132597879392&amp;guid=886ddd99483b09546bb27e7428124f61&amp;type=3#GuardianMain" />
+    <engine:VisualElement name="ChildInterestModalContainer" style="flex-grow: 0; position: absolute; flex-shrink: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.53); align-items: center; justify-content: center; display: none;">
+        <engine:VisualElement name="VisualElement" style="flex-grow: 0; width: 70%; justify-content: space-between; align-items: center; background-color: rgb(255, 252, 237); height: auto; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgb(128, 76, 4); border-right-color: rgb(128, 76, 4); border-top-color: rgb(128, 76, 4); border-bottom-color: rgb(128, 76, 4); flex-shrink: 0;">
+            <engine:Label text="Bunga" class="Header1" />
+            <engine:Label text="Selamat Datang Hari Ini Kamu Dapat Koin Sebanyak:" class="Text" />
+            <engine:Label text="&#x9;" name="MoneyLabel" class="Text" style="color: rgb(128, 76, 4); width: 90%; white-space: normal; -unity-text-align: upper-center;" />
+            <engine:VisualElement style="flex-grow: 0; flex-shrink: 0; flex-direction: row; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px; width: 90%; justify-content: center;">
+                <engine:Button text="Sudah" name="ApproveInterestConfirmButton" class="ButtonDarkNormal" style="width: 80%;" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+    <engine:VisualElement name="ExitModalContainet" style="flex-grow: 0; position: absolute; flex-shrink: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0); align-items: center; justify-content: center; display: none;">
+        <engine:Button text="&lt;" name="BackButton" class="BackButton" />
+        <engine:VisualElement name="VisualElement" style="flex-grow: 0; width: 70%; justify-content: space-between; align-items: center; background-color: rgb(255, 252, 237); height: auto; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgb(128, 76, 4); border-right-color: rgb(128, 76, 4); border-top-color: rgb(128, 76, 4); border-bottom-color: rgb(128, 76, 4); flex-shrink: 0;">
+            <engine:Label text="Keluar" class="Header1" />
+            <engine:Label text="Masukan Password untuk Keluar" class="Text" />
+            <engine:Label text="Email" name="Label" class="Text" style="-unity-font-style: bold; -unity-text-align: middle-left; width: 80%; font-size: 15px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" />
+            <engine:TextField placeholder-text="Email" name="login_email_tf" style="width: 80%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+            <engine:Label text="Password" name="Label" class="Text" style="-unity-font-style: bold; -unity-text-align: middle-left; width: 80%; font-size: 15px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+            <engine:TextField placeholder-text="Password" name="login_password_tf" password="true" style="width: 80%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+            <engine:Label text="Label" name="login_error_label" style="border-left-color: rgb(255, 0, 0); border-right-color: rgb(255, 0, 0); border-top-color: rgb(255, 0, 0); border-bottom-color: rgb(255, 0, 0); background-color: rgba(255, 0, 0, 0); color: rgb(255, 0, 0); display: flex; width: 100%; -unity-text-align: upper-center; white-space: normal;" />
+            <engine:VisualElement name="VisualElement" style="flex-grow: 0; flex-shrink: 0; flex-direction: row; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px; width: 90%; justify-content: center;">
+                <engine:Button text="Sudah" name="ApproveInterestConfirmButton" class="ButtonDarkNormal" style="width: 80%;" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

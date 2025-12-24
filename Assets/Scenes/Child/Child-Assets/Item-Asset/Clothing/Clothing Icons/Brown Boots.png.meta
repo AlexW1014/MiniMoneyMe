@@ -1,0 +1,789 @@
+fileFormatVersion: 2
+guid: cdad60c939741844a85a826c74487841
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2821721258784120730
+    second: Brown Boots_0
+  - first:
+      213: -6320346154509512231
+    second: Brown Boots_1
+  - first:
+      213: 7849035419342073931
+    second: Brown Boots_2
+  - first:
+      213: -3869634583557333424
+    second: Brown Boots_3
+  - first:
+      213: 1737049781347774956
+    second: Brown Boots_4
+  - first:
+      213: -2420726186681221170
+    second: Brown Boots_5
+  - first:
+      213: -8005852626605000262
+    second: Brown Boots_6
+  - first:
+      213: -4174130019359378048
+    second: Brown Boots_7
+  - first:
+      213: 7680388534299840691
+    second: Brown Boots_8
+  - first:
+      213: -7281583257470122059
+    second: Brown Boots_9
+  - first:
+      213: 8377748105173810862
+    second: Brown Boots_10
+  - first:
+      213: 713042017770238993
+    second: Brown Boots_11
+  - first:
+      213: -4923405169071507489
+    second: Brown Boots_12
+  - first:
+      213: -1916686367980344572
+    second: Brown Boots_13
+  - first:
+      213: -4601107022401929642
+    second: Brown Boots_14
+  - first:
+      213: -7149381077159989737
+    second: Brown Boots_15
+  - first:
+      213: -8466113292826827773
+    second: Brown Boots_16
+  - first:
+      213: -554155011547550766
+    second: Brown Boots_17
+  - first:
+      213: 6111809942298517718
+    second: Brown Boots_18
+  - first:
+      213: -3479529908079945779
+    second: Brown Boots_19
+  - first:
+      213: -1276832358124289082
+    second: Brown Boots_20
+  - first:
+      213: 5147365664842939070
+    second: Brown Boots_21
+  - first:
+      213: -96101700391678700
+    second: Brown Boots_22
+  - first:
+      213: 7784931019703055251
+    second: Brown Boots_23
+  - first:
+      213: 1885223751734320061
+    second: Brown Boots_24
+  - first:
+      213: -7910549033478016944
+    second: Brown Boots_25
+  - first:
+      213: -2521155075200137079
+    second: Brown Boots_26
+  - first:
+      213: -3503322304603429426
+    second: Brown Boots_27
+  - first:
+      213: 2257967747222708980
+    second: Brown Boots_28
+  - first:
+      213: -3081737749271586164
+    second: Brown Boots_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown Boots_0
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1017
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fdef4e884c82720800000000000000
+      internalID: 2821721258784120730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_1
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1011
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d154fab8ae9948a0800000000000000
+      internalID: -6320346154509512231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_2
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 291
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40f75fb0206dec60800000000000000
+      internalID: 7849035419342073931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_3
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 652
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e9f7439db4c4ac0800000000000000
+      internalID: -3869634583557333424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_7
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 297
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0853ac5ecd28216c0800000000000000
+      internalID: -4174130019359378048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 264
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7cf085b9e92fa90800000000000000
+      internalID: -7281583257470122059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 275
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae3692b38db34470800000000000000
+      internalID: 8377748105173810862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_11
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 270
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1147f13ffeb35e900800000000000000
+      internalID: 713042017770238993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_12
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7bb24851d8cabb0800000000000000
+      internalID: -4923405169071507489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_13
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 262
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ba2b247ef8665e0800000000000000
+      internalID: -1916686367980344572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 239
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e7d247a859520c0800000000000000
+      internalID: -4601107022401929642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 242
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eaaf31acb48cc90800000000000000
+      internalID: -7149381077159989737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_16
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 240
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30428d8c0d2528a80800000000000000
+      internalID: -8466113292826827773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 217
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dba43af3fe3f48f0800000000000000
+      internalID: -554155011547550766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_18
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d06761c2c281d450800000000000000
+      internalID: 6111809942298517718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_19
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71c83ebf936bfc0800000000000000
+      internalID: -3479529908079945779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_20
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c307483cb7c74ee0800000000000000
+      internalID: -1276832358124289082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_21
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba710edccd1f6740800000000000000
+      internalID: 5147365664842939070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_22
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dc7dd33049aaef0800000000000000
+      internalID: -96101700391678700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_23
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 28
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393f15e1481a90c60800000000000000
+      internalID: 7784931019703055251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_24
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 11
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbd04c8309a92a10800000000000000
+      internalID: 1885223751734320061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_25
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050bb31e095183290800000000000000
+      internalID: -7910549033478016944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_26
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988c50711de030dd0800000000000000
+      internalID: -2521155075200137079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_27
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5e864ece2b16fc0800000000000000
+      internalID: -3503322304603429426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_28
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2af7fe3b9e55f10800000000000000
+      internalID: 2257967747222708980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown Boots_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a51c348d77b35d0800000000000000
+      internalID: -3081737749271586164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 63b5480197930954789dca97af9b21b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Brown Boots_0: 2821721258784120730
+      Brown Boots_1: -6320346154509512231
+      Brown Boots_10: 8377748105173810862
+      Brown Boots_11: 713042017770238993
+      Brown Boots_12: -4923405169071507489
+      Brown Boots_13: -1916686367980344572
+      Brown Boots_14: -4601107022401929642
+      Brown Boots_15: -7149381077159989737
+      Brown Boots_16: -8466113292826827773
+      Brown Boots_17: -554155011547550766
+      Brown Boots_18: 6111809942298517718
+      Brown Boots_19: -3479529908079945779
+      Brown Boots_2: 7849035419342073931
+      Brown Boots_20: -1276832358124289082
+      Brown Boots_21: 5147365664842939070
+      Brown Boots_22: -96101700391678700
+      Brown Boots_23: 7784931019703055251
+      Brown Boots_24: 1885223751734320061
+      Brown Boots_25: -7910549033478016944
+      Brown Boots_26: -2521155075200137079
+      Brown Boots_27: -3503322304603429426
+      Brown Boots_28: 2257967747222708980
+      Brown Boots_29: -3081737749271586164
+      Brown Boots_3: -3869634583557333424
+      Brown Boots_7: -4174130019359378048
+      Brown Boots_9: -7281583257470122059
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

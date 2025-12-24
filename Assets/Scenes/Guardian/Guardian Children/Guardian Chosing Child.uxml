@@ -1,0 +1,26 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/StyleSheets/Guardian/GuardianMain.uss?fileID=7433441132597879392&amp;guid=886ddd99483b09546bb27e7428124f61&amp;type=3#GuardianMain" />
+    <engine:VisualElement style="flex-grow: 1; background-color: rgb(255, 252, 237);">
+        <engine:VisualElement style="flex-grow: 0; background-image: url(&quot;project://database/Assets/Scenes/Guardian/Guardian%20Assets/image%2016.png?fileID=2800000&amp;guid=42619ff5fb0220c4aa9818a15b3b7b83&amp;type=3#image 16&quot;); height: 20%; flex-shrink: 0; -unity-background-scale-mode: scale-to-fit;" />
+        <engine:Label text="Welcome Back" class="Header1" style="font-size: 30px;" />
+        <engine:Label text="Yuk, cek progress si kecilmu" class="Text" style="-unity-text-align: upper-center; background-color: rgba(131, 107, 88, 0); -unity-text-outline-color: rgba(131, 107, 88, 0); color: rgb(131, 107, 88);" />
+        <engine:ScrollView name="ContainerChildren" mode="Vertical" horizontal-scroller-visibility="Hidden" vertical-scroller-visibility="Hidden" touch-scroll-type="Elastic" usage-hints="-1" style="align-items: stretch; justify-content: flex-start; flex-shrink: 1; flex-grow: 0; align-self: stretch; height: 100%; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0);" />
+        <engine:Button text="Daftar Anak" name="AddChildrenButton" class="ButtonLight" style="font-size: 27px; -unity-font-style: bold; background-color: rgb(255, 252, 237); border-left-color: rgb(128, 76, 4); border-right-color: rgb(128, 76, 4); border-top-color: rgb(128, 76, 4); border-bottom-color: rgb(128, 76, 4); border-top-left-radius: 7px; border-top-right-radius: 7px; border-bottom-right-radius: 7px; border-bottom-left-radius: 7px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; align-self: center; width: 90%; color: rgb(131, 107, 88);" />
+        <engine:Button text="&lt;" name="GuardianBackButton" class="BackButton" />
+    </engine:VisualElement>
+    <engine:VisualElement name="AddChildrenModalContainer" style="flex-grow: 0; flex-shrink: 0; position: absolute; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.57); justify-content: center; align-items: stretch; display: none;">
+        <engine:VisualElement name="AddChildrenModal" style="flex-grow: 0; height: auto; flex-shrink: 0; justify-content: space-evenly; align-self: center; background-color: rgb(253, 229, 191); width: 90%; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-left-color: rgb(173, 113, 63); border-right-color: rgb(173, 113, 63); border-top-color: rgb(173, 113, 63); border-bottom-color: rgb(173, 113, 63); border-top-left-radius: 6px; border-top-right-radius: 6px; border-bottom-right-radius: 6px; border-bottom-left-radius: 6px;">
+            <engine:Label text="Data Anak" class="Header2" style="font-size: 30px;" />
+            <engine:VisualElement style="flex-grow: 1;">
+                <engine:Label text="Nama" class="Text" style="-unity-text-align: middle-left;" />
+                <engine:TextField placeholder-text="nama" name="Name-TF" style="background-color: rgba(0, 0, 0, 0); -unity-background-image-tint-color: rgb(255, 35, 35); background-image: resource(&apos;Fonts &amp; Materials/Anton SDF&apos;); border-left-color: rgba(0, 0, 0, 0); border-right-color: rgba(0, 0, 0, 0); border-top-color: rgba(0, 0, 0, 0); border-bottom-color: rgba(0, 0, 0, 0); border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;" />
+                <engine:Label text="Umur" class="Text" style="-unity-text-align: middle-left;" />
+                <engine:TextField placeholder-text="umur" name="Age-TF" style="background-color: rgba(0, 0, 0, 0); -unity-background-image-tint-color: rgb(255, 35, 35); background-image: resource(&apos;Fonts &amp; Materials/Anton SDF&apos;); border-left-color: rgba(0, 0, 0, 0); border-right-color: rgba(0, 0, 0, 0); border-top-color: rgba(0, 0, 0, 0); border-bottom-color: rgba(0, 0, 0, 0); border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;" />
+            </engine:VisualElement>
+            <engine:VisualElement name="VisualElement" style="flex-grow: 0; flex-direction: row; justify-content: center; height: 40px; flex-shrink: 0;">
+                <engine:Button text="Batal" name="AddChildrenModalCancelButton" class="ButtonLight" style="width: 40%;" />
+                <engine:Button text="Terima" name="AddChildrenModalConfirmButton" class="ButtonDark" style="width: 40%;" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

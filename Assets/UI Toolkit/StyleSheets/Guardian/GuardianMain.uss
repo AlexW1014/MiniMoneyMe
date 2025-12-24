@@ -1,0 +1,192 @@
+.BackButton {
+    display: flex;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    flex-shrink: 0;
+    background-color: rgb(255, 252, 237);
+    width: 5px;
+    height: 5px;
+    -unity-font-style: bold;
+    color: rgb(128, 76, 4);
+    border-left-color: rgb(128, 76, 4);
+    border-right-color: rgb(128, 76, 4);
+    border-top-color: rgb(128, 76, 4);
+    border-bottom-color: rgb(128, 76, 4);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.BackButton:active {
+    display: flex;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    flex-shrink: 0;
+    background-color: rgb(128, 76, 4);
+    width: 5px;
+    height: 5px;
+    -unity-font-style: bold;
+    color: rgb(255, 252, 237);
+    border-left-color: rgb(128, 76, 4);
+    border-right-color: rgb(128, 76, 4);
+    border-top-color: rgb(128, 76, 4);
+    border-bottom-color: rgb(128, 76, 4);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.Header1 {
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    -unity-font-definition: url("project://database/Assets/Font%20-J/InstrumentSerif-Regular.ttf?fileID=12800000&guid=b32198ff5ccccf54781f035a7abd8b5c&type=3#InstrumentSerif-Regular");
+    -unity-font-style: bold;
+    font-size: 25px;
+    white-space: normal;
+    -unity-text-align: upper-center;
+    color: rgb(128, 76, 4);
+}
+
+.Header3 {
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    -unity-font-definition: url("project://database/Assets/Font%20-J/InstrumentSerif-Regular.ttf?fileID=12800000&guid=b32198ff5ccccf54781f035a7abd8b5c&type=3#InstrumentSerif-Regular");
+    -unity-font-style: bold;
+    font-size: 15px;
+    white-space: normal;
+    -unity-text-align: upper-center;
+    color: rgb(128, 76, 4);
+}
+
+.Text {
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    -unity-font-definition: url("project://database/Assets/Font%20-J/InstrumentSerif-Regular.ttf?fileID=12800000&guid=b32198ff5ccccf54781f035a7abd8b5c&type=3#InstrumentSerif-Regular");
+    -unity-font-style: bold;
+    font-size: 12px;
+    white-space: normal;
+    -unity-text-align: middle-center;
+    color: rgb(128, 76, 4);
+}
+
+.ButtonLight {
+    -unity-font-definition: url("project://database/Assets/Font%20-J/InstrumentSerif-Regular.ttf?fileID=12800000&guid=b32198ff5ccccf54781f035a7abd8b5c&type=3#InstrumentSerif-Regular");
+    -unity-font-style: bold;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-left-color: rgb(128, 76, 4);
+    border-right-color: rgb(128, 76, 4);
+    border-top-color: rgb(128, 76, 4);
+    border-bottom-color: rgb(128, 76, 4);
+    background-color: rgb(255, 252, 237);
+    color: rgb(128, 76, 4);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.ButtonDark {
+    -unity-font-definition: url("project://database/Assets/Font%20-J/InstrumentSerif-Regular.ttf?fileID=12800000&guid=b32198ff5ccccf54781f035a7abd8b5c&type=3#InstrumentSerif-Regular");
+    -unity-font-style: bold;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-left-color: rgb(255, 252, 237);
+    border-right-color: rgb(255, 252, 237);
+    border-top-color: rgb(255, 252, 237);
+    border-bottom-color: rgb(255, 252, 237);
+    background-color: rgb(128, 76, 4);
+    color: rgb(255, 252, 237);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.Header2 {
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    -unity-font-definition: url("project://database/Assets/Font%20-J/InstrumentSerif-Regular.ttf?fileID=12800000&guid=b32198ff5ccccf54781f035a7abd8b5c&type=3#InstrumentSerif-Regular");
+    -unity-font-style: bold;
+    font-size: 20px;
+    white-space: normal;
+    -unity-text-align: upper-center;
+    color: rgb(128, 76, 4);
+}
+
+.ButtonDark:active {
+    -unity-font-definition: url("project://database/Assets/Font%20-J/InstrumentSerif-Regular.ttf?fileID=12800000&guid=b32198ff5ccccf54781f035a7abd8b5c&type=3#InstrumentSerif-Regular");
+    -unity-font-style: bold;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-left-color: rgb(128, 76, 4);
+    border-right-color: rgb(128, 76, 4);
+    border-top-color: rgb(128, 76, 4);
+    border-bottom-color: rgb(128, 76, 4);
+    background-color: rgb(255, 252, 237);
+    color: rgb(128, 76, 4);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    rotate: -10deg;
+}
+
+.ButtonDarkNormal {
+    -unity-font-definition: url("project://database/Assets/Font%20-J/InstrumentSerif-Regular.ttf?fileID=12800000&guid=b32198ff5ccccf54781f035a7abd8b5c&type=3#InstrumentSerif-Regular");
+    -unity-font-style: bold;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-left-color: rgb(255, 252, 237);
+    border-right-color: rgb(255, 252, 237);
+    border-top-color: rgb(255, 252, 237);
+    border-bottom-color: rgb(255, 252, 237);
+    background-color: rgb(128, 76, 4);
+    color: rgb(255, 252, 237);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.Children {
+}
+
+.Text {
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    -unity-font-definition: url("project://database/Assets/Font%20-J/InstrumentSerif-Regular.ttf?fileID=12800000&guid=b32198ff5ccccf54781f035a7abd8b5c&type=3#InstrumentSerif-Regular");
+    -unity-font-style: bold;
+    font-size: 20px;
+    white-space: normal;
+    -unity-text-align: middle-center;
+    color: rgb(128, 76, 4);
+}
+
+.Children:active {
+    background-color: rgb(255, 255, 255);
+}
+
+.unity-label {
+    -unity-font-definition: url("project://database/Assets/Font%20-J/HappyMonkey-Regular.ttf?fileID=12800000&guid=e6a6ecebc423876479587796e04feeec&type=3#HappyMonkey-Regular");
+}

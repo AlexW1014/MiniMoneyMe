@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3462e35eb130aed4abf301b2fe3039ea, type: 3}
+  m_Name: Pink Ribbon
+  m_EditorClassIdentifier: 
+  itemName: Jepitan Pink
+  icon: {fileID: -7671452398547770735, guid: 944addd9e8e49e343b216e2cf37d68c6, type: 3}
+  type: 1
+  amount: 1
+  price: 5
+  slot: 1
+  clothingSprite: {fileID: 21300000, guid: 9744f2efa2849b445a3d49c010b4a053, type: 3}
+  category: 3
+  itemID: 

@@ -1,0 +1,20 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/StyleSheets/Guardian/GuardianMain.uss?fileID=7433441132597879392&amp;guid=886ddd99483b09546bb27e7428124f61&amp;type=3#GuardianMain" />
+    <engine:Button text="&lt;" name="LogOutButton" class="BackButton" />
+    <engine:VisualElement name="LoginMenu" style="flex-grow: 1; background-color: rgb(255, 252, 237); width: 90%; height: 60%; position: absolute; display: none; top: 20%; left: auto; right: auto; bottom: auto; align-self: center;">
+        <engine:VisualElement style="flex-grow: 1; justify-content: flex-start; align-items: center;">
+            <engine:Label text="Log Out" class="Header2" style="font-size: 25px;" />
+            <engine:VisualElement style="flex-grow: 1; width: 80%;">
+                <engine:Label text="Email" name="Label" class="Text" style="-unity-font-style: bold; -unity-text-align: middle-left; font-size: 15px;" />
+                <engine:TextField placeholder-text="Email" name="login_email_tf" />
+                <engine:Label text="Password" name="Label" class="Text" style="-unity-font-style: bold; -unity-text-align: middle-left; font-size: 15px;" />
+                <engine:TextField placeholder-text="Password" name="login_password_tf" password="true" />
+            </engine:VisualElement>
+            <engine:Label text="Label" name="login_error_label" style="border-left-color: rgb(255, 0, 0); border-right-color: rgb(255, 0, 0); border-top-color: rgb(255, 0, 0); border-bottom-color: rgb(255, 0, 0); background-color: rgba(255, 0, 0, 0); color: rgb(255, 0, 0); display: flex; width: 100%; -unity-text-align: upper-center; white-space: normal;" />
+            <engine:VisualElement style="flex-grow: 1; width: 100%; justify-content: center; align-items: center;">
+                <engine:Button text="Log Out" name="login_button" class="ButtonDark" style="width: 50%;" />
+            </engine:VisualElement>
+            <engine:Button text="&lt;" name="BackButton" class="BackButton" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

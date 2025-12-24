@@ -1,0 +1,7 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Template name="ContainerHistoryDesc" src="project://database/Assets/Resources/ContainerHistoryDesc.uxml?fileID=9197481963319205126&amp;guid=5ab6991a007f1754c978632123738915&amp;type=3#ContainerHistoryDesc" />
+    <engine:VisualElement name="ContainerHistory" template="ContainerHistory">
+        <engine:Label text="Label" name="date-label" style="align-self: center; width: 80%;" />
+        <engine:Instance template="ContainerHistoryDesc" name="ContainerHistoryDesc" />
+    </engine:VisualElement>
+</engine:UXML>

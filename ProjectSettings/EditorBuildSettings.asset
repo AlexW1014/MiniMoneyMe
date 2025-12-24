@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 0
+    path: Assets/Scenes/Admin/Admin Main Screen.unity
+    guid: 101d16c91fdae3e4298b455e7796397e
+  - enabled: 0
+    path: Assets/Scenes/Admin/Learning Material Scene.unity
+    guid: b5057e5fbffca4045ba9f869b407e65c
+  - enabled: 0
+    path: Assets/Scenes/Admin/Katalog Barang Screen.unity
+    guid: e245eac69e89c284f99490b143c209d5
+  - enabled: 0
+    path: Assets/Scenes/Admin/Testing doang.unity
+    guid: 755c5040adcf1094381cd53a03a0c35f
+  - enabled: 1
+    path: Assets/Scenes/Guardian/Guardian Login/Guardian Login Sign Up.unity
+    guid: 656e8906bdf565f4cbcd38dd51bd7ca1
+  - enabled: 1
+    path: Assets/Scenes/Child/Children Task/Children Task Scene.unity
+    guid: 6f22ca7ec17c45a43a3897cd5381b68d
+  - enabled: 1
+    path: Assets/Scenes/Child/Chiildren Wallet/ChildWallet.unity
+    guid: 79ec79652074eea41b73b806a8806070
+  - enabled: 1
+    path: Assets/Scenes/Guardian/Guardian Landing/Guardian Landing Scene.unity
+    guid: 2fd9bd3cd8a6c2942b9eab4ca83810b2
+  - enabled: 0
+    path: Assets/Scenes/Guardian/Guardian Login Scene.unity
+    guid: 7324b9f998f8ff346960772bcd566e4d
+  - enabled: 0
+    path: Assets/Scenes/Guardian/buang.unity
+    guid: 71c5ac0eb7054684fb7ad42f054d2109
+  - enabled: 0
+    path: Assets/Scenes/Guardian/Guardian Main Scene.unity
+    guid: 943a5cba5445e4c4d862b268e19ec3d3
+  - enabled: 0
+    path: Assets/Scenes/Guardian/Assign Task Scene.unity
+    guid: 8874d771cc515a64e8d8bfad2366dcdd
+  - enabled: 0
+    path: Assets/Scenes/Guardian/Guardian Sign Up Scene.unity
+    guid: 71c5ac0eb7054684fb7ad42f054d2109
+  - enabled: 1
+    path: Assets/Scenes/Child/Customize Avatar UI/Customize Avatar.unity
+    guid: fd0e01853ccff8344942afe398e73f95
+  - enabled: 1
+    path: Assets/Scenes/Child/MoneyMiniMe.unity
+    guid: d53f2244e3e9f8d47a7cfead60bc5d91
+  - enabled: 1
+    path: Assets/Scenes/Guardian/Guardian Task/Guardian Task Scene.unity
+    guid: 91d76aa715d9d704cacc42e7265f8928
+  - enabled: 1
+    path: Assets/Scenes/Guardian/Guardian Wallet/Guardian Wallet.unity
+    guid: 20ccf3e49da112c44ba97e77149007f3
+  - enabled: 1
+    path: Assets/Scenes/Guardian/Guardian Children/Guardian Children.unity
+    guid: 7748d5743cb9dff44a0c67c41f9dd745
+  - enabled: 1
+    path: Assets/Scenes/Child/Child Sick/Child Sick.unity
+    guid: ca6643eb87271184d987e31f8f75b91d
+  - enabled: 1
+    path: Assets/Scenes/Child/Learning Material/Learning Material.unity
+    guid: d5d32cd13ab35944db90662381dec18c
+  - enabled: 1
+    path: Assets/Scenes/Child/Learning Material/Learning Material 1/Learning Material
+      1.unity
+    guid: cb41b3c553d1bc04c88d14bd0c0be9be
+  - enabled: 1
+    path: Assets/Scenes/Child/Learning Material/Learning Material 2/Learning Material
+      2.unity
+    guid: 365ab6fdcae298f409b45d14f6ce56b8
+  - enabled: 1
+    path: Assets/Scenes/Child/Learning Material/Learning Material 3/Learning Material
+      3.unity
+    guid: cffe8fc1a76ac964289a1eb63da212e4
+  - enabled: 1
+    path: Assets/Scenes/Child/Child Tutorial/Child Tutorial.unity
+    guid: 2725e0c4347a27140a3a9d70af932b7a
+  - enabled: 1
+    path: Assets/Scenes/Guardian/Guardian Learning/Guardian Learning.unity
+    guid: 166df256e7abfdd4c973ebaa30d47790
+  - enabled: 1
+    path: Assets/Scenes/Guardian/Guardian Learning/Guardian Learning 0/Guardian Learning
+      0.unity
+    guid: 349958300d1b9c94da591ba53e0a5fbc
+  - enabled: 1
+    path: Assets/Scenes/Guardian/Guardian Learning/Guardian Learning 1/Guardian Learning
+      1.unity
+    guid: 4376d48991c344746aac74cd044a3eaf
+  - enabled: 1
+    path: Assets/Scenes/Guardian/Guardian Learning/Guardian Learning 2/Guardian Learning
+      2.unity
+    guid: ff13dbc4abe510144984d96591f338ba
+  - enabled: 1
+    path: Assets/Scenes/Guardian/Guardian Learning/Guardian Learning 3/Guardian Learning
+      3.unity
+    guid: 40fd9a8b76fd73f45b4049da514b0d29
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 485305039dafd41459596cd5a25dcf0d, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 8479f88ec172d8349998c72e8d538d6b, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 70d4e0355b79f934e91bcba2d6ed05fc, type: 2}
+  m_UseUCBPForAssetBundles: 0

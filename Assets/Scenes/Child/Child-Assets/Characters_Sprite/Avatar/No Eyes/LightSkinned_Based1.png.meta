@@ -1,0 +1,1127 @@
+fileFormatVersion: 2
+guid: 96daa3a995f89374391058bbc726e787
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -66796638638734120
+    second: LightSkinned_Based1_0
+  - first:
+      213: 396344291191201513
+    second: LightSkinned_Based1_1
+  - first:
+      213: 3586183196584687038
+    second: LightSkinned_Based1_2
+  - first:
+      213: 3022925144156749532
+    second: LightSkinned_Based1_3
+  - first:
+      213: -4032529382107890477
+    second: LightSkinned_Based1_4
+  - first:
+      213: -9170793634508388734
+    second: LightSkinned_Based1_5
+  - first:
+      213: 3607014852892682607
+    second: LightSkinned_Based1_6
+  - first:
+      213: -8923825036278122420
+    second: LightSkinned_Based1_7
+  - first:
+      213: 2872752370443652375
+    second: LightSkinned_Based1_8
+  - first:
+      213: -2601693967859815260
+    second: LightSkinned_Based1_9
+  - first:
+      213: 7699313973878879242
+    second: LightSkinned_Based1_10
+  - first:
+      213: 6802003300917679098
+    second: LightSkinned_Based1_11
+  - first:
+      213: -4030447739914138207
+    second: LightSkinned_Based1_12
+  - first:
+      213: -7999149351443718946
+    second: LightSkinned_Based1_13
+  - first:
+      213: 7455809578436153595
+    second: LightSkinned_Based1_14
+  - first:
+      213: -9025307703516719507
+    second: LightSkinned_Based1_15
+  - first:
+      213: -8150641237798158760
+    second: LightSkinned_Based1_16
+  - first:
+      213: -7414635643067509973
+    second: LightSkinned_Based1_17
+  - first:
+      213: 7354237132023146959
+    second: LightSkinned_Based1_18
+  - first:
+      213: -1019633130321039232
+    second: LightSkinned_Based1_19
+  - first:
+      213: 7380757043004762091
+    second: LightSkinned_Based1_20
+  - first:
+      213: 3082853698143191677
+    second: LightSkinned_Based1_21
+  - first:
+      213: 6729845642078945624
+    second: LightSkinned_Based1_22
+  - first:
+      213: 5219222659441505247
+    second: LightSkinned_Based1_23
+  - first:
+      213: -71422674550389639
+    second: LightSkinned_Based1_24
+  - first:
+      213: 7025291773577666791
+    second: LightSkinned_Based1_25
+  - first:
+      213: 7767337352357990410
+    second: LightSkinned_Based1_26
+  - first:
+      213: -9189317109437469556
+    second: LightSkinned_Based1_27
+  - first:
+      213: -6612364833959709973
+    second: LightSkinned_Based1_28
+  - first:
+      213: 961573783912802893
+    second: LightSkinned_Based1_29
+  - first:
+      213: 2261373718758185571
+    second: LightSkinned_Based1_30
+  - first:
+      213: 6636459566548251111
+    second: LightSkinned_Based1_31
+  - first:
+      213: -7120885129004347904
+    second: LightSkinned_Based1_32
+  - first:
+      213: -5161813874238784580
+    second: LightSkinned_Based1_33
+  - first:
+      213: -8263165501080650949
+    second: LightSkinned_Based1_34
+  - first:
+      213: 176540723124158455
+    second: LightSkinned_Based1_35
+  - first:
+      213: 8009590569914416863
+    second: LightSkinned_Based1_36
+  - first:
+      213: 7251022334900128347
+    second: LightSkinned_Based1_37
+  - first:
+      213: 2398356806721999516
+    second: LightSkinned_Based1_38
+  - first:
+      213: 619040370758279059
+    second: LightSkinned_Based1_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightSkinned_Based1_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1551
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d48fb1afc0b21ff0800000000000000
+      internalID: -66796638638734120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1553
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee943d6809108500800000000000000
+      internalID: 396344291191201513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1555
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5b7ebed9ea4c130800000000000000
+      internalID: 3586183196584687038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1555
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde3f08076693f920800000000000000
+      internalID: 3022925144156749532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1548
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc322964e39908c0800000000000000
+      internalID: -4032529382107890477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 47
+        width: 1057
+        height: 2058
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286c6b247cbcab080800000000000000
+      internalID: -9170793634508388734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1543
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69e93ed5e0be0230800000000000000
+      internalID: 3607014852892682607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1546
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48b7e2f864382480800000000000000
+      internalID: -8923825036278122420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1548
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d84f77f011ed720800000000000000
+      internalID: 2872752370443652375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1543
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac607fde1de4ebd0800000000000000
+      internalID: -2601693967859815260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1527
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04704b344579da60800000000000000
+      internalID: 7699313973878879242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1533
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af39b30b6f1956e50800000000000000
+      internalID: 6802003300917679098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1535
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad44a08229f018c0800000000000000
+      internalID: -4030447739914138207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1541
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc96e1db005df090800000000000000
+      internalID: -7999149351443718946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1536
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf054ab1f4b587760800000000000000
+      internalID: 7455809578436153595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1526
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d661a47367aafb280800000000000000
+      internalID: -9025307703516719507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1515
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ef3696afa13ee80800000000000000
+      internalID: -8150641237798158760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1523
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23d204ca2ce91990800000000000000
+      internalID: -7414635643067509973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1518
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc92a3805bf7f0660800000000000000
+      internalID: 7354237132023146959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1508
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080bef9f11989d1f0800000000000000
+      internalID: -1019633130321039232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1510
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7e2c9fc67bd6660800000000000000
+      internalID: 7380757043004762091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1513
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d720354da1f78ca20800000000000000
+      internalID: 3082853698143191677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1506
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851835984f6356d50800000000000000
+      internalID: 6729845642078945624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1480
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd33eab2b576e6840800000000000000
+      internalID: 5219222659441505247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1496
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9740486b471420ff0800000000000000
+      internalID: -71422674550389639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1503
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0229f75a9de7160800000000000000
+      internalID: 7025291773577666791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1500
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00dbe93b202bcb60800000000000000
+      internalID: 7767337352357990410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_27
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1493
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c6f8ba6ccf87080800000000000000
+      internalID: -9189317109437469556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1498
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2fb82a7392c34a0800000000000000
+      internalID: -6612364833959709973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1491
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a63770342385d00800000000000000
+      internalID: 961573783912802893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1490
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a5cfa7a63026f10800000000000000
+      internalID: 2261373718758185571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1496
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1f95670d0791c50800000000000000
+      internalID: 6636459566548251111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e855704b88d2d90800000000000000
+      internalID: -7120885129004347904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1486
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb705d31ad8d58b0800000000000000
+      internalID: -5161813874238784580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_34
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1488
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b33d3c1c6535d80800000000000000
+      internalID: -8263165501080650949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 847
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffb4323ad2337200800000000000000
+      internalID: 176540723124158455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 850
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde311ccf28c72f60800000000000000
+      internalID: 8009590569914416863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 852
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a4522656ec0a460800000000000000
+      internalID: 7251022334900128347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 840
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c921e450fcca84120800000000000000
+      internalID: 2398356806721999516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightSkinned_Based1_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 836
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f5ca8ffe5479800800000000000000
+      internalID: 619040370758279059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LightSkinned_Based1_0: -66796638638734120
+      LightSkinned_Based1_1: 396344291191201513
+      LightSkinned_Based1_10: 7699313973878879242
+      LightSkinned_Based1_11: 6802003300917679098
+      LightSkinned_Based1_12: -4030447739914138207
+      LightSkinned_Based1_13: -7999149351443718946
+      LightSkinned_Based1_14: 7455809578436153595
+      LightSkinned_Based1_15: -9025307703516719507
+      LightSkinned_Based1_16: -8150641237798158760
+      LightSkinned_Based1_17: -7414635643067509973
+      LightSkinned_Based1_18: 7354237132023146959
+      LightSkinned_Based1_19: -1019633130321039232
+      LightSkinned_Based1_2: 3586183196584687038
+      LightSkinned_Based1_20: 7380757043004762091
+      LightSkinned_Based1_21: 3082853698143191677
+      LightSkinned_Based1_22: 6729845642078945624
+      LightSkinned_Based1_23: 5219222659441505247
+      LightSkinned_Based1_24: -71422674550389639
+      LightSkinned_Based1_25: 7025291773577666791
+      LightSkinned_Based1_26: 7767337352357990410
+      LightSkinned_Based1_27: -9189317109437469556
+      LightSkinned_Based1_28: -6612364833959709973
+      LightSkinned_Based1_29: 961573783912802893
+      LightSkinned_Based1_3: 3022925144156749532
+      LightSkinned_Based1_30: 2261373718758185571
+      LightSkinned_Based1_31: 6636459566548251111
+      LightSkinned_Based1_32: -7120885129004347904
+      LightSkinned_Based1_33: -5161813874238784580
+      LightSkinned_Based1_34: -8263165501080650949
+      LightSkinned_Based1_35: 176540723124158455
+      LightSkinned_Based1_36: 8009590569914416863
+      LightSkinned_Based1_37: 7251022334900128347
+      LightSkinned_Based1_38: 2398356806721999516
+      LightSkinned_Based1_39: 619040370758279059
+      LightSkinned_Based1_4: -4032529382107890477
+      LightSkinned_Based1_5: -9170793634508388734
+      LightSkinned_Based1_6: 3607014852892682607
+      LightSkinned_Based1_7: -8923825036278122420
+      LightSkinned_Based1_8: 2872752370443652375
+      LightSkinned_Based1_9: -2601693967859815260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

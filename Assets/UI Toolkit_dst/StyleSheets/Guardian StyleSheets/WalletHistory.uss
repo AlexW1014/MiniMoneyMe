@@ -1,0 +1,16 @@
+.button {
+    background-color: rgb(255, 252, 237);
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.button:focus {
+    background-color: rgb(131, 107, 88);
+    color: rgb(204, 202, 190);
+}

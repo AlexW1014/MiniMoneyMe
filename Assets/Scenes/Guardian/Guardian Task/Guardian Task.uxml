@@ -1,0 +1,54 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/StyleSheets/Guardian/GuardianMain.uss?fileID=7433441132597879392&amp;guid=886ddd99483b09546bb27e7428124f61&amp;type=3#GuardianMain" />
+    <engine:VisualElement name="GuardianTaskContainer" style="flex-grow: 1; background-color: rgb(255, 252, 237);">
+        <engine:VisualElement name="VisualElement" style="flex-grow: 0; flex-direction: column; height: 30%;">
+            <engine:VisualElement name="VisualElement" style="flex-grow: 0; flex-shrink: 1; width: auto; background-image: url(&quot;project://database/Assets/Scenes/Child/Children%20Task/Task%20List.png?fileID=2800000&amp;guid=01c93cc24bbd70a4ea8220c2bd32fdfa&amp;type=3#Task List&quot;); -unity-background-scale-mode: scale-to-fit; height: 70%; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; margin-top: 20px; margin-right: 20px; margin-bottom: 20px; margin-left: 20px;" />
+            <engine:Label text="Nama" name="NameLabel" class="Header1" style="flex-shrink: 1;" />
+            <engine:Button text="&lt;" name="GuardianBackButton" class="BackButton" />
+        </engine:VisualElement>
+        <engine:VisualElement style="flex-grow: 1; -unity-text-align: upper-center; justify-content: space-evenly; align-items: center;">
+            <engine:VisualElement name="VisualElement" style="flex-grow: 0; flex-direction: row; flex-shrink: 0; height: auto; width: 80%; border-left-color: rgb(234, 179, 133); border-right-color: rgb(234, 179, 133); border-top-color: rgb(234, 179, 133); border-bottom-color: rgb(234, 179, 133); border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;">
+                <engine:VisualElement name="EasyTaskContainer" style="flex-grow: 1; flex-direction: row; width: 87%;">
+                    <engine:VisualElement name="VisualElement" style="flex-grow: 0; background-image: url(&quot;project://database/Assets/Scenes/Guardian/Guardian%20Assets/erasebg-transformed%20(35)%206%20(1).png?fileID=2800000&amp;guid=20e0e0b629802ad4897bb1c972b820f1&amp;type=3#erasebg-transformed (35) 6 (1)&quot;); width: 25%; -unity-background-scale-mode: scale-to-fit; flex-shrink: 0; height: 70px;" />
+                    <engine:Label text="Tugas Mudah" name="EasyTaskLabel" class="Header3" style="width: 67%; -unity-text-align: middle-left; font-size: 12px;" />
+                </engine:VisualElement>
+                <engine:VisualElement name="EasyTaskEdit" style="flex-grow: 0; width: 13%; flex-shrink: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-image: url(&quot;project://database/Assets/Scenes/Guardian/Guardian%20Assets/Group.png?fileID=2800000&amp;guid=d1fd0ca628de0bc44ad8180ff57ba75e&amp;type=3#Group&quot;); -unity-background-scale-mode: scale-to-fit;" />
+            </engine:VisualElement>
+            <engine:VisualElement name="VisualElement" style="flex-grow: 0; flex-direction: row; flex-shrink: 0; height: auto; width: 80%; border-left-color: rgb(234, 179, 133); border-right-color: rgb(234, 179, 133); border-top-color: rgb(234, 179, 133); border-bottom-color: rgb(234, 179, 133); border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;">
+                <engine:VisualElement name="MediumTaskContainer" style="flex-grow: 1; flex-direction: row; width: 87%;">
+                    <engine:VisualElement name="VisualElement" style="flex-grow: 0; background-image: url(&quot;project://database/Assets/Scenes/Guardian/Guardian%20Assets/erasebg-transformed%20(35)%204%20(1).png?fileID=2800000&amp;guid=eef7c3b7cde9002438010d7993c8479e&amp;type=3#erasebg-transformed (35) 4 (1)&quot;); width: 25%; -unity-background-scale-mode: scale-to-fit; flex-shrink: 0; height: 70px;" />
+                    <engine:Label text="Tugas Sedang" name="MediumTaskLabel" class="Header3" style="width: 67%; -unity-text-align: middle-left; font-size: 12px;" />
+                </engine:VisualElement>
+                <engine:VisualElement name="MediumTaskEdit" style="flex-grow: 0; width: 13%; flex-shrink: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-image: url(&quot;project://database/Assets/Scenes/Guardian/Guardian%20Assets/Group.png?fileID=2800000&amp;guid=d1fd0ca628de0bc44ad8180ff57ba75e&amp;type=3#Group&quot;); -unity-background-scale-mode: scale-to-fit;" />
+            </engine:VisualElement>
+            <engine:VisualElement name="VisualElement" style="flex-grow: 0; flex-direction: row; flex-shrink: 0; height: auto; width: 80%; border-left-color: rgb(234, 179, 133); border-right-color: rgb(234, 179, 133); border-top-color: rgb(234, 179, 133); border-bottom-color: rgb(234, 179, 133); border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;">
+                <engine:VisualElement name="HardTaskContainer" style="flex-grow: 1; flex-shrink: 0; justify-content: flex-start; align-items: center; width: 87%; flex-direction: row;">
+                    <engine:VisualElement name="VisualElement" style="flex-grow: 0; background-image: url(&quot;project://database/Assets/Scenes/Guardian/Guardian%20Assets/erasebg-transformed%20(35)%207%20(1).png?fileID=2800000&amp;guid=0135da9c2cc24a44fb8aa89987622e64&amp;type=3#erasebg-transformed (35) 7 (1)&quot;); width: 25%; -unity-background-scale-mode: scale-to-fit; flex-shrink: 0; height: 70px;" />
+                    <engine:Label text="asjndjcsxnjkvdnc kjaendcjknvadcjkndjkcsnjcdasdcnkmnnfvkdjcnkvdnckjnfdckjnfvdkcjnkdjcnvnd;vjnkjvdnjj" name="HardTaskLabel" class="Header3" style="width: 67%; text-overflow: ellipsis; -unity-text-align: middle-left; font-size: 12px; white-space: normal;" />
+                </engine:VisualElement>
+                <engine:VisualElement name="HardTaskEdit" style="flex-grow: 0; width: 13%; flex-shrink: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-image: url(&quot;project://database/Assets/Scenes/Guardian/Guardian%20Assets/Group.png?fileID=2800000&amp;guid=d1fd0ca628de0bc44ad8180ff57ba75e&amp;type=3#Group&quot;); -unity-background-scale-mode: scale-to-fit;" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+    <engine:VisualElement name="GuardianEditTaskModalContainer" style="flex-grow: 0; position: absolute; flex-shrink: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.53); align-items: center; justify-content: center; display: none;">
+        <engine:VisualElement name="VisualElement" style="flex-grow: 0; width: 70%; justify-content: space-between; align-items: center; background-color: rgb(255, 252, 237); height: auto; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgb(128, 76, 4); border-right-color: rgb(128, 76, 4); border-top-color: rgb(128, 76, 4); border-bottom-color: rgb(128, 76, 4);">
+            <engine:Label text="Tugas" class="Header1" />
+            <engine:TextField placeholder-text="Masukan Tugas Baru" name="NewTaskTextField" style="align-self: center; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 5px; width: 90%; background-color: rgba(255, 0, 0, 0);" />
+            <engine:VisualElement name="VisualElement" style="flex-grow: 0; flex-shrink: 0; flex-direction: row; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px; width: 90%; justify-content: center; align-items: stretch;">
+                <engine:Button text="Batal" name="EditTaskCancelButton" class="ButtonLight" style="width: 40%;" />
+                <engine:Button text="Selesai" name="EditTaskConfirmButton" class="ButtonDarkNormal" style="width: 40%; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgb(128, 76, 4); border-right-color: rgb(128, 76, 4); border-top-color: rgb(128, 76, 4); border-bottom-color: rgb(128, 76, 4);" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+    <engine:VisualElement name="GuardianApproveTaskModalContainer" style="flex-grow: 0; position: absolute; flex-shrink: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.53); align-items: center; justify-content: center; display: none;">
+        <engine:VisualElement name="VisualElement" style="flex-grow: 0; width: 70%; justify-content: space-between; align-items: center; background-color: rgb(255, 252, 237); height: auto; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgb(128, 76, 4); border-right-color: rgb(128, 76, 4); border-top-color: rgb(128, 76, 4); border-bottom-color: rgb(128, 76, 4); flex-shrink: 0;">
+            <engine:Label text="Tugas" class="Header1" />
+            <engine:Label text="Apakah Tugas Ini sudah Selesai?" class="Text" />
+            <engine:Label text="Tugasnya" name="SelectedTaskLabel" class="Text" style="color: rgb(128, 76, 4); width: 90%; white-space: normal; -unity-text-align: upper-center;" />
+            <engine:VisualElement style="flex-grow: 0; flex-shrink: 0; flex-direction: row; margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px; width: 90%; justify-content: center;">
+                <engine:Button text="Belum" name="ApproveTaskCancelButton" class="ButtonLight" style="width: 40%;" />
+                <engine:Button text="Sudah" name="ApproveTaskConfirmButton" class="ButtonDarkNormal" style="width: 40%;" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

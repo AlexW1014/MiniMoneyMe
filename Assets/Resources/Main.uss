@@ -1,0 +1,33 @@
+Button {
+    background-color: rgb(255, 252, 237);
+    color: rgb(128, 76, 4);
+    -unity-font-style: bold;
+    border-left-color: rgb(128, 76, 4);
+    border-right-color: rgb(128, 76, 4);
+    border-top-color: rgb(128, 76, 4);
+    border-bottom-color: rgb(128, 76, 4);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.NormalLabel {
+    border-left-color: rgb(128, 76, 4);
+    border-right-color: rgb(128, 76, 4);
+    border-top-color: rgb(128, 76, 4);
+    border-bottom-color: rgb(128, 76, 4);
+    color: rgb(128, 76, 4);
+    -unity-font-style: bold;
+}
+
+Label {
+    -unity-font-definition: url("project://database/Assets/Font%20-J/InstrumentSerif-Regular.ttf?fileID=12800000&guid=b32198ff5ccccf54781f035a7abd8b5c&type=3#InstrumentSerif-Regular");
+    color: rgb(128, 76, 4);
+    -unity-font-style: bold;
+    font-size: 17px;
+}

@@ -1,0 +1,25 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Resources/Main.uss?fileID=7433441132597879392&amp;guid=2369d68838206714d8811cb03d3b7976&amp;type=3#Main" />
+    <engine:VisualElement name="1" style="flex-grow: 0; background-color: rgb(255, 255, 255); -unity-background-image-tint-color: rgb(128, 76, 4); flex-shrink: 0; width: 100%; height: 100%; justify-content: center; align-items: center; position: absolute; display: none;">
+        <engine:VisualElement name="VisualElement" style="flex-grow: 0; background-image: url(&quot;project://database/Assets/Scenes/Child/Learning%20Material/Learning%20Material%202/17.png?fileID=2800000&amp;guid=7a72fe37bc1411b4b8fd1d809d8969fd&amp;type=3#17&quot;); -unity-background-scale-mode: scale-to-fit; width: 250px; height: 500px; flex-shrink: 0;" />
+    </engine:VisualElement>
+    <engine:VisualElement name="2" style="flex-grow: 0; background-color: rgb(255, 255, 255); -unity-background-image-tint-color: rgb(128, 76, 4); flex-shrink: 0; width: 100%; height: 100%; justify-content: center; align-items: center; position: absolute; display: flex;">
+        <engine:VisualElement name="VisualElement" style="flex-grow: 0; background-image: url(&quot;project://database/Assets/Scenes/Child/Learning%20Material/Learning%20Material%202/18.png?fileID=2800000&amp;guid=0a75558e21db37d40b6ea40d118e96ba&amp;type=3#18&quot;); -unity-background-scale-mode: scale-to-fit; width: 250px; height: 500px; flex-shrink: 0; background-color: rgb(255, 255, 255);" />
+    </engine:VisualElement>
+    <engine:VisualElement name="3" style="flex-grow: 0; background-color: rgb(255, 255, 255); -unity-background-image-tint-color: rgb(128, 76, 4); flex-shrink: 0; width: 100%; height: 100%; justify-content: center; align-items: center; position: absolute; display: flex;">
+        <engine:VisualElement name="VisualElement" style="flex-grow: 0; background-image: url(&quot;project://database/Assets/Scenes/Child/Learning%20Material/Learning%20Material%202/19.png?fileID=2800000&amp;guid=323b701a8b7bccb4085fa29a607ff24f&amp;type=3#19&quot;); -unity-background-scale-mode: scale-to-fit; width: 250px; height: 500px; flex-shrink: 0;" />
+    </engine:VisualElement>
+    <engine:VisualElement name="FinishedModal" style="flex-grow: 0; background-color: rgb(255, 255, 255); -unity-background-image-tint-color: rgb(128, 76, 4); flex-shrink: 0; width: 100%; height: 100%; justify-content: center; align-items: center; position: absolute; display: none;">
+        <engine:VisualElement name="VisualElement" style="flex-grow: 0; background-image: none; -unity-background-scale-mode: scale-to-fit; width: 80%; height: auto; flex-shrink: 0; background-color: rgb(255, 252, 237); border-left-color: rgb(128, 76, 4); border-right-color: rgb(128, 76, 4); border-top-color: rgb(128, 76, 4); border-bottom-color: rgb(128, 76, 4); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; display: flex;">
+            <engine:Label text="Selamat, Kamu Telah Menyelesaikan Materi" name="Label" style="flex-wrap: wrap; white-space: normal; -unity-font-style: bold; -unity-text-align: upper-center;" />
+            <engine:Label text="Kamu Mendapatkan 10  koin karena telah menyelesaikan materi ini" name="CoinLabel" style="white-space: normal; display: none;" />
+            <engine:VisualElement name="VisualElement" style="flex-grow: 1; flex-direction: row; align-items: center; justify-content: center;">
+                <engine:Button text="Kembali" name="FinishedBackButton" style="width: 40%;" />
+                <engine:Button text="Lanjut" name="FinishedNextButton" style="width: 40%;" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+    <engine:Button text="Sebelum" name="BackButton" style="height: 20px; width: 40%; position: absolute; bottom: 0; left: 5%;" />
+    <engine:Button text="Selanjutnya" name="NextButton" style="height: 20px; width: 40%; position: absolute; bottom: 0; left: auto; right: 5%;" />
+    <engine:Button text="X" name="TutorialBackButton" style="position: absolute; background-color: rgb(255, 0, 0); width: 5px; height: 5px; font-size: 11px; -unity-font-style: bold; color: rgb(0, 0, 0); top: 5px; left: 5px; right: 0; bottom: 0;" />
+</engine:UXML>

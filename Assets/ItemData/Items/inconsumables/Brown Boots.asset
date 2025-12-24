@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3462e35eb130aed4abf301b2fe3039ea, type: 3}
+  m_Name: Brown Boots
+  m_EditorClassIdentifier: 
+  itemName: Boots Coklat
+  icon: {fileID: -3869634583557333424, guid: cdad60c939741844a85a826c74487841, type: 3}
+  type: 1
+  amount: 1
+  price: 7
+  slot: 4
+  clothingSprite: {fileID: 21300000, guid: ca2c5f64954e2004e902c51a21341b08, type: 3}
+  category: 4
+  itemID: 

@@ -1,0 +1,1127 @@
+fileFormatVersion: 2
+guid: a2f0c8bee09ce6643bc2aed2f0ed008b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6028507921123887231
+    second: Dark2_0
+  - first:
+      213: -844864505515402685
+    second: Dark2_1
+  - first:
+      213: 1896930408207433146
+    second: Dark2_2
+  - first:
+      213: -593873792980666222
+    second: Dark2_3
+  - first:
+      213: -6508026381405718306
+    second: Dark2_4
+  - first:
+      213: -9039566721121061988
+    second: Dark2_5
+  - first:
+      213: -6022403017927832053
+    second: Dark2_6
+  - first:
+      213: -6734100735864524371
+    second: Dark2_7
+  - first:
+      213: 7998648828146314359
+    second: Dark2_8
+  - first:
+      213: -5036031647609539584
+    second: Dark2_9
+  - first:
+      213: -5222819253120797357
+    second: Dark2_10
+  - first:
+      213: 8141657413089300044
+    second: Dark2_11
+  - first:
+      213: 3523668470038553677
+    second: Dark2_12
+  - first:
+      213: 5813447979282005087
+    second: Dark2_13
+  - first:
+      213: -6701598358448383649
+    second: Dark2_14
+  - first:
+      213: 8940676352136329029
+    second: Dark2_15
+  - first:
+      213: 7546179091077932987
+    second: Dark2_16
+  - first:
+      213: 33410979180464999
+    second: Dark2_17
+  - first:
+      213: -8368059678382925526
+    second: Dark2_18
+  - first:
+      213: -8640196317753791871
+    second: Dark2_19
+  - first:
+      213: -6573283371250378421
+    second: Dark2_20
+  - first:
+      213: -4055648314462580063
+    second: Dark2_21
+  - first:
+      213: 6560998916132377237
+    second: Dark2_22
+  - first:
+      213: 3165729560979583922
+    second: Dark2_23
+  - first:
+      213: 7739363651434569627
+    second: Dark2_24
+  - first:
+      213: 4388672952066607581
+    second: Dark2_25
+  - first:
+      213: 8745498344963246752
+    second: Dark2_26
+  - first:
+      213: -4553702694263443622
+    second: Dark2_27
+  - first:
+      213: 2407828222106485525
+    second: Dark2_28
+  - first:
+      213: 2992530683823878018
+    second: Dark2_29
+  - first:
+      213: 8868938897095558461
+    second: Dark2_30
+  - first:
+      213: -5004807511427031375
+    second: Dark2_31
+  - first:
+      213: -3203605864270316691
+    second: Dark2_32
+  - first:
+      213: 827386555307090339
+    second: Dark2_33
+  - first:
+      213: -7495234942560150353
+    second: Dark2_34
+  - first:
+      213: 4849000469730027060
+    second: Dark2_35
+  - first:
+      213: 57605623185101147
+    second: Dark2_36
+  - first:
+      213: -4392136635626876419
+    second: Dark2_37
+  - first:
+      213: 1306351461289273547
+    second: Dark2_38
+  - first:
+      213: -4430096399935679534
+    second: Dark2_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark2_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1547
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78c73c830099a350800000000000000
+      internalID: 6028507921123887231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a1b6165307644f0800000000000000
+      internalID: -844864505515402685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1551
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd37d8e720435a10800000000000000
+      internalID: 1896930408207433146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1551
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29839f78ee222c7f0800000000000000
+      internalID: -593873792980666222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1544
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8f073bc78dea5a0800000000000000
+      internalID: -6508026381405718306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 43
+        width: 1057
+        height: 2058
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93f228f5f10d8280800000000000000
+      internalID: -9039566721121061988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1539
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ecb2efc502c6ca0800000000000000
+      internalID: -6022403017927832053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1542
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1391d3f0bab82a0800000000000000
+      internalID: -6734100735864524371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1544
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c61c40bb8e00f60800000000000000
+      internalID: 7998648828146314359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1539
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004bb9606eb6c1ab0800000000000000
+      internalID: -5036031647609539584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1523
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355f9ab9f81d487b0800000000000000
+      internalID: -5222819253120797357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1529
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e0d16e74afcf070800000000000000
+      internalID: 8141657413089300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1531
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4464e6edc596e030800000000000000
+      internalID: 3523668470038553677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1537
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cf05dd2248da050800000000000000
+      internalID: 5813447979282005087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1532
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d751bcc32ff2a0800000000000000
+      internalID: -6701598358448383649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1522
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54732d4c5c9a31c70800000000000000
+      internalID: 8940676352136329029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1511
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb72e27e6e969b860800000000000000
+      internalID: 7546179091077932987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1519
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b46a9cb13b67000800000000000000
+      internalID: 33410979180464999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1514
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2957b2fe0eaedb80800000000000000
+      internalID: -8368059678382925526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1504
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aa5aa0a3bd71880800000000000000
+      internalID: -8640196317753791871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1506
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4993a0c99107c4a0800000000000000
+      internalID: -6573283371250378421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1509
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2db82885177b7c0800000000000000
+      internalID: -4055648314462580063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1502
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5921bc7a0c95d0b50800000000000000
+      internalID: 6560998916132377237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1476
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b33421534eeeeb20800000000000000
+      internalID: 3165729560979583922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1492
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fd35f6c3eb76b60800000000000000
+      internalID: 7739363651434569627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1499
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd98b473cc2b7ec30800000000000000
+      internalID: 4388672952066607581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1496
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa0d4bb8604e5970800000000000000
+      internalID: 8745498344963246752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_27
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f20bfa68ffdc0c0800000000000000
+      internalID: -4553702694263443622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1494
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51341d2c2035a6120800000000000000
+      internalID: 2407828222106485525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1487
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f67c44dca978920800000000000000
+      internalID: 2992530683823878018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1486
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d358600ffecc41b70800000000000000
+      internalID: 8868938897095558461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1492
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be5f20c51a5b8ab0800000000000000
+      internalID: -5004807511427031375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1478
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b3fcb90718a83d0800000000000000
+      internalID: -3203605864270316691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1482
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1630930b77b7b00800000000000000
+      internalID: 827386555307090339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_34
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1484
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac5b9cf7839bf790800000000000000
+      internalID: -7495234942560150353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 843
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436e5f17c3c1b4340800000000000000
+      internalID: 4849000469730027060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 846
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5153035208acc000800000000000000
+      internalID: 57605623185101147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 848
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df11b7c100ffb03c0800000000000000
+      internalID: -4392136635626876419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 836
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a5f19bb7112210800000000000000
+      internalID: 1306351461289273547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark2_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 832
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d811cbc22582c0800000000000000
+      internalID: -4430096399935679534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dark2_0: 6028507921123887231
+      Dark2_1: -844864505515402685
+      Dark2_10: -5222819253120797357
+      Dark2_11: 8141657413089300044
+      Dark2_12: 3523668470038553677
+      Dark2_13: 5813447979282005087
+      Dark2_14: -6701598358448383649
+      Dark2_15: 8940676352136329029
+      Dark2_16: 7546179091077932987
+      Dark2_17: 33410979180464999
+      Dark2_18: -8368059678382925526
+      Dark2_19: -8640196317753791871
+      Dark2_2: 1896930408207433146
+      Dark2_20: -6573283371250378421
+      Dark2_21: -4055648314462580063
+      Dark2_22: 6560998916132377237
+      Dark2_23: 3165729560979583922
+      Dark2_24: 7739363651434569627
+      Dark2_25: 4388672952066607581
+      Dark2_26: 8745498344963246752
+      Dark2_27: -4553702694263443622
+      Dark2_28: 2407828222106485525
+      Dark2_29: 2992530683823878018
+      Dark2_3: -593873792980666222
+      Dark2_30: 8868938897095558461
+      Dark2_31: -5004807511427031375
+      Dark2_32: -3203605864270316691
+      Dark2_33: 827386555307090339
+      Dark2_34: -7495234942560150353
+      Dark2_35: 4849000469730027060
+      Dark2_36: 57605623185101147
+      Dark2_37: -4392136635626876419
+      Dark2_38: 1306351461289273547
+      Dark2_39: -4430096399935679534
+      Dark2_4: -6508026381405718306
+      Dark2_5: -9039566721121061988
+      Dark2_6: -6022403017927832053
+      Dark2_7: -6734100735864524371
+      Dark2_8: 7998648828146314359
+      Dark2_9: -5036031647609539584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

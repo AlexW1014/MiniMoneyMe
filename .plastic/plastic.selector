@@ -1,0 +1,4 @@
+repository "Mini Money Me 2025-07-28_18-29-43/Mini Money Me@20067504831208@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,1127 @@
+fileFormatVersion: 2
+guid: fe072cebc0bf7d2438d0b31a67c5413f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2960817457198598511
+    second: Fair_Based1_0
+  - first:
+      213: -1682702734106098335
+    second: Fair_Based1_1
+  - first:
+      213: 3871823875046129542
+    second: Fair_Based1_2
+  - first:
+      213: 9072354520631459662
+    second: Fair_Based1_3
+  - first:
+      213: 8383427110732923797
+    second: Fair_Based1_4
+  - first:
+      213: -278576930646179673
+    second: Fair_Based1_5
+  - first:
+      213: 3335305502262563121
+    second: Fair_Based1_6
+  - first:
+      213: -8258283243802804743
+    second: Fair_Based1_7
+  - first:
+      213: -3595838082914293240
+    second: Fair_Based1_8
+  - first:
+      213: 7104156185626650687
+    second: Fair_Based1_9
+  - first:
+      213: -3956801256972534256
+    second: Fair_Based1_10
+  - first:
+      213: -3595348344798977908
+    second: Fair_Based1_11
+  - first:
+      213: -5856281482869638806
+    second: Fair_Based1_12
+  - first:
+      213: -8790252802308873915
+    second: Fair_Based1_13
+  - first:
+      213: 7473573734184381164
+    second: Fair_Based1_14
+  - first:
+      213: -2808591304315523632
+    second: Fair_Based1_15
+  - first:
+      213: -8325743162697846765
+    second: Fair_Based1_16
+  - first:
+      213: 3789137599769042105
+    second: Fair_Based1_17
+  - first:
+      213: -910369568201712202
+    second: Fair_Based1_18
+  - first:
+      213: -6308331407950645361
+    second: Fair_Based1_19
+  - first:
+      213: -7420103528881312210
+    second: Fair_Based1_20
+  - first:
+      213: -7402351673729531918
+    second: Fair_Based1_21
+  - first:
+      213: -1590051121329826304
+    second: Fair_Based1_22
+  - first:
+      213: 6488533156192093498
+    second: Fair_Based1_23
+  - first:
+      213: 6112806869000226555
+    second: Fair_Based1_24
+  - first:
+      213: -6633847313803582117
+    second: Fair_Based1_25
+  - first:
+      213: 5320712546746356661
+    second: Fair_Based1_26
+  - first:
+      213: 1715042388563542099
+    second: Fair_Based1_27
+  - first:
+      213: -71021476117456893
+    second: Fair_Based1_28
+  - first:
+      213: 964321584710329211
+    second: Fair_Based1_29
+  - first:
+      213: -2210561402023576580
+    second: Fair_Based1_30
+  - first:
+      213: 7659453938402473015
+    second: Fair_Based1_31
+  - first:
+      213: -1076429104823857449
+    second: Fair_Based1_32
+  - first:
+      213: -8293608134048319528
+    second: Fair_Based1_33
+  - first:
+      213: 2335554286770003118
+    second: Fair_Based1_34
+  - first:
+      213: -2530834794361755548
+    second: Fair_Based1_35
+  - first:
+      213: 2395991688847152051
+    second: Fair_Based1_36
+  - first:
+      213: -5633174521541142032
+    second: Fair_Based1_37
+  - first:
+      213: 3163416698065915484
+    second: Fair_Based1_38
+  - first:
+      213: -1841636199418120604
+    second: Fair_Based1_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 675, y: 0, z: 756, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fair_Based1_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1547
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196f6e2b53019e6d0800000000000000
+      internalID: -2960817457198598511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165070757c6d5a8e0800000000000000
+      internalID: -1682702734106098335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1551
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f3001fc4b7bb530800000000000000
+      internalID: 3871823875046129542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1551
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fb5ae7e5a77ed70800000000000000
+      internalID: 9072354520631459662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1544
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5938d973a8ae75470800000000000000
+      internalID: 8383427110732923797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 43
+        width: 1057
+        height: 2058
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0473ee1cb422cf0800000000000000
+      internalID: -278576930646179673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1539
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13114cfdea2694e20800000000000000
+      internalID: 3335305502262563121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1542
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdb29ed42fa46d80800000000000000
+      internalID: -8258283243802804743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1544
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a621ea054091ec0800000000000000
+      internalID: -3595838082914293240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1539
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38ab215968079260800000000000000
+      internalID: 7104156185626650687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1523
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e3557883e9619c0800000000000000
+      internalID: -3956801256972534256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1529
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80e778bab1ca1ec0800000000000000
+      internalID: -3595348344798977908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1531
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a697bdce40f4abea0800000000000000
+      internalID: -5856281482869638806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1537
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5416f7826afb20680800000000000000
+      internalID: -8790252802308873915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1532
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaefbce6b777b760800000000000000
+      internalID: 7473573734184381164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1522
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda50bd611e509d0800000000000000
+      internalID: -2808591304315523632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1511
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310f14884b4057c80800000000000000
+      internalID: -8325743162697846765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1519
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc5f4f3298b59430800000000000000
+      internalID: 3789137599769042105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1514
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdd20973b7bd53f0800000000000000
+      internalID: -910369568201712202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1504
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8779a7e10e4478a0800000000000000
+      internalID: -6308331407950645361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1506
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e2864672f760990800000000000000
+      internalID: -7420103528881312210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1509
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff35d04f50954990800000000000000
+      internalID: -7402351673729531918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1502
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069c6afde00fe9e0800000000000000
+      internalID: -1590051121329826304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1476
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a358c202786eb0a50800000000000000
+      internalID: 6488533156192093498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1492
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf68357d57d05d450800000000000000
+      internalID: 6112806869000226555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1499
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55ee860407dfe3a0800000000000000
+      internalID: -6633847313803582117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1496
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3d7c4fed7f6d940800000000000000
+      internalID: 5320712546746356661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_27
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1489
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350411937fd0dc710800000000000000
+      internalID: 1715042388563542099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1494
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3085890085ea30ff0800000000000000
+      internalID: -71021476117456893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1487
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73a6e14f55f16d00800000000000000
+      internalID: 964321584710329211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1486
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbf13eed128251e0800000000000000
+      internalID: -2210561402023576580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1492
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73432f386c8db4a60800000000000000
+      internalID: 7659453938402473015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1478
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de051dae61cf01f0800000000000000
+      internalID: -1076429104823857449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1482
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d772cfe75f27ec80800000000000000
+      internalID: -8293608134048319528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_34
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1484
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac1190ef3e896020800000000000000
+      internalID: 2335554286770003118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 843
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4686ed8d92ba0ecd0800000000000000
+      internalID: -2530834794361755548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 846
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3d58a1fb5404120800000000000000
+      internalID: 2395991688847152051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 848
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f952c55e91f2d1b0800000000000000
+      internalID: -5633174521541142032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 836
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e02c4f9b6b6eb20800000000000000
+      internalID: 3163416698065915484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fair_Based1_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 832
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466be2052a13176e0800000000000000
+      internalID: -1841636199418120604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fair_Based1_0: -2960817457198598511
+      Fair_Based1_1: -1682702734106098335
+      Fair_Based1_10: -3956801256972534256
+      Fair_Based1_11: -3595348344798977908
+      Fair_Based1_12: -5856281482869638806
+      Fair_Based1_13: -8790252802308873915
+      Fair_Based1_14: 7473573734184381164
+      Fair_Based1_15: -2808591304315523632
+      Fair_Based1_16: -8325743162697846765
+      Fair_Based1_17: 3789137599769042105
+      Fair_Based1_18: -910369568201712202
+      Fair_Based1_19: -6308331407950645361
+      Fair_Based1_2: 3871823875046129542
+      Fair_Based1_20: -7420103528881312210
+      Fair_Based1_21: -7402351673729531918
+      Fair_Based1_22: -1590051121329826304
+      Fair_Based1_23: 6488533156192093498
+      Fair_Based1_24: 6112806869000226555
+      Fair_Based1_25: -6633847313803582117
+      Fair_Based1_26: 5320712546746356661
+      Fair_Based1_27: 1715042388563542099
+      Fair_Based1_28: -71021476117456893
+      Fair_Based1_29: 964321584710329211
+      Fair_Based1_3: 9072354520631459662
+      Fair_Based1_30: -2210561402023576580
+      Fair_Based1_31: 7659453938402473015
+      Fair_Based1_32: -1076429104823857449
+      Fair_Based1_33: -8293608134048319528
+      Fair_Based1_34: 2335554286770003118
+      Fair_Based1_35: -2530834794361755548
+      Fair_Based1_36: 2395991688847152051
+      Fair_Based1_37: -5633174521541142032
+      Fair_Based1_38: 3163416698065915484
+      Fair_Based1_39: -1841636199418120604
+      Fair_Based1_4: 8383427110732923797
+      Fair_Based1_5: -278576930646179673
+      Fair_Based1_6: 3335305502262563121
+      Fair_Based1_7: -8258283243802804743
+      Fair_Based1_8: -3595838082914293240
+      Fair_Based1_9: 7104156185626650687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

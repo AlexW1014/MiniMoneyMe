@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 7022ec2f326d9f741a411a50915491ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8461133488899493948
+    second: Purple Skirt_0
+  - first:
+      213: 328428970032555250
+    second: Purple Skirt_1
+  - first:
+      213: 63900458652858361
+    second: Purple Skirt_2
+  - first:
+      213: 7302194992050083716
+    second: Purple Skirt_3
+  - first:
+      213: -6841092687010766596
+    second: Purple Skirt_4
+  - first:
+      213: -8204464854094180922
+    second: Purple Skirt_5
+  - first:
+      213: 7714570420791701480
+    second: Purple Skirt_6
+  - first:
+      213: 8267551376894046396
+    second: Purple Skirt_7
+  - first:
+      213: 7010258583022828702
+    second: Purple Skirt_8
+  - first:
+      213: -5709074417621089225
+    second: Purple Skirt_9
+  - first:
+      213: -7027466402631194045
+    second: Purple Skirt_10
+  - first:
+      213: 2168808584307293367
+    second: Purple Skirt_11
+  - first:
+      213: 2675254075109987334
+    second: Purple Skirt_12
+  - first:
+      213: 9096978184369661483
+    second: Purple Skirt_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Skirt_0
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1013
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfebfcbbe3049a80800000000000000
+      internalID: -8461133488899493948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_1
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1006
+        width: 153
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4ecbc7860de8400800000000000000
+      internalID: 328428970032555250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_2
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1019
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7fcfae02503e000800000000000000
+      internalID: 63900458652858361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_3
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 936
+        width: 113
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48718c518ab965560800000000000000
+      internalID: 7302194992050083716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_4
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 652
+        width: 533
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf06333627e8f01a0800000000000000
+      internalID: -6841092687010766596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_5
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1004
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd0a8f2fa2e32e80800000000000000
+      internalID: -8204464854094180922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_6
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1007
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef66069ce8af0b60800000000000000
+      internalID: 7714570420791701480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_7
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 965
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0bf068c2e3cb270800000000000000
+      internalID: 8267551376894046396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_8
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 929
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c75b01a01794160800000000000000
+      internalID: 7010258583022828702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_9
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 784
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734cc6da01b45c0b0800000000000000
+      internalID: -5709074417621089225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_10
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 717
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aec283a8c697e90800000000000000
+      internalID: -7027466402631194045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_11
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 701
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc3475aae7291e10800000000000000
+      internalID: 2168808584307293367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_12
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 672
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604d8de3869602520800000000000000
+      internalID: 2675254075109987334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Skirt_13
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 657
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26e4d8f575fe3e70800000000000000
+      internalID: 9096978184369661483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Purple Skirt_0: -8461133488899493948
+      Purple Skirt_1: 328428970032555250
+      Purple Skirt_10: -7027466402631194045
+      Purple Skirt_11: 2168808584307293367
+      Purple Skirt_12: 2675254075109987334
+      Purple Skirt_13: 9096978184369661483
+      Purple Skirt_2: 63900458652858361
+      Purple Skirt_3: 7302194992050083716
+      Purple Skirt_4: -6841092687010766596
+      Purple Skirt_5: -8204464854094180922
+      Purple Skirt_6: 7714570420791701480
+      Purple Skirt_7: 8267551376894046396
+      Purple Skirt_8: 7010258583022828702
+      Purple Skirt_9: -5709074417621089225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

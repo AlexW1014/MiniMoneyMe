@@ -1,0 +1,17 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:GroupBox data-source="project://database/Assets/TextMesh%20Pro/Examples%20&amp;%20Extras/Resources/Color%20Gradient%20Presets/Yellow%20to%20Orange%20-%20Vertical.asset?fileID=11400000&amp;guid=69a525efa7e6472eab268f6ea605f06e&amp;type=2#Yellow to Orange - Vertical" data-source-path="topLeft.b" style="align-self: auto; justify-content: center; align-items: center;">
+        <engine:Label text="Label" name="DateLabel" data-source="project://database/Assets/Scenes/Guardian/HistoryDB.asset?fileID=11400000&amp;guid=c0c18dab4924c6e498b4701278795638&amp;type=2#HistoryDB" data-source-path="dt" style="width: 100%;">
+            <Bindings>
+                <engine:DataBinding property="text" binding-mode="ToTarget" data-source="project://database/Assets/Scenes/Guardian/HistoryDB.asset?fileID=11400000&amp;guid=c0c18dab4924c6e498b4701278795638&amp;type=2#HistoryDB" data-source-path="dt" />
+            </Bindings>
+        </engine:Label>
+        <engine:VisualElement style="flex-grow: 1; width: 90%; border-left-color: rgb(131, 107, 88); border-right-color: rgb(131, 107, 88); border-top-color: rgb(131, 107, 88); border-bottom-color: rgb(131, 107, 88); background-color: rgb(255, 252, 237); border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; flex-direction: row; justify-content: space-between;">
+            <engine:Label text="Label" name="SpendingDescLabel" data-source="project://database/Assets/Scenes/Guardian/HistoryDB.asset?fileID=11400000&amp;guid=c0c18dab4924c6e498b4701278795638&amp;type=2#HistoryDB" data-source-path="spend" style="border-left-color: rgb(131, 107, 88); border-right-color: rgb(131, 107, 88); border-top-color: rgb(131, 107, 88); border-bottom-color: rgb(131, 107, 88);">
+                <Bindings>
+                    <engine:DataBinding property="text" binding-mode="ToTarget" data-source="project://database/Assets/Scenes/Guardian/HistoryDB.asset?fileID=11400000&amp;guid=c0c18dab4924c6e498b4701278795638&amp;type=2#HistoryDB" data-source-path="spend" data-source-type="Spending, Assembly-CSharp" />
+                </Bindings>
+            </engine:Label>
+            <engine:Label text="Label" name="SpendingAmountLabel" style="border-left-color: rgb(131, 107, 88); border-right-color: rgb(131, 107, 88); border-top-color: rgb(131, 107, 88); border-bottom-color: rgb(131, 107, 88); font-size: 17px; -unity-font-style: bold;" />
+        </engine:VisualElement>
+    </engine:GroupBox>
+</engine:UXML>

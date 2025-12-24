@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3462e35eb130aed4abf301b2fe3039ea, type: 3}
+  m_Name: OnigiriItem
+  m_EditorClassIdentifier: 
+  itemName: Onigiri
+  icon: {fileID: -5049462080294506672, guid: 80a5e3525f4ad5b4b808cb3be3092ae2, type: 3}
+  type: 0
+  amount: 1
+  price: 3
+  slot: 0
+  clothingSprite: {fileID: 0}
+  category: 5
+  itemID: 

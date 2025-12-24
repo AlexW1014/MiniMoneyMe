@@ -1,0 +1,42 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/StyleSheets/Guardian/GuardianMain.uss?fileID=7433441132597879392&amp;guid=886ddd99483b09546bb27e7428124f61&amp;type=3#GuardianMain" />
+    <engine:VisualElement name="RootElement" style="flex-grow: 1;">
+        <engine:VisualElement name="LoginMenu" style="flex-grow: 1; background-color: rgb(255, 252, 237); width: 100%; height: 100%; position: absolute; display: flex;">
+            <engine:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); background-image: url(&quot;project://database/Assets/Scenes/Guardian/Guardian%20Assets/image%2043@2x.png?fileID=2800000&amp;guid=d2fff80d1ef4873469f23d7126533a0e&amp;type=3#image 43@2x&quot;); -unity-background-scale-mode: scale-to-fit; height: 20%;" />
+            <engine:VisualElement style="flex-grow: 1; justify-content: flex-start; align-items: center;">
+                <engine:Label text="Ayo Login Dulu" class="Header2" />
+                <engine:VisualElement style="flex-grow: 1; width: 80%;">
+                    <engine:Label text="Email" name="Label" class="Text" style="-unity-font-style: bold; -unity-text-align: middle-left; font-size: 15px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                    <engine:TextField placeholder-text="Email" name="login_email_tf" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                    <engine:Label text="Password" name="Label" class="Text" style="-unity-font-style: bold; -unity-text-align: middle-left; font-size: 15px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                    <engine:TextField placeholder-text="Password" name="login_password_tf" password="true" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                </engine:VisualElement>
+                <engine:Label text="Label" name="login_error_label" style="border-left-color: rgb(255, 0, 0); border-right-color: rgb(255, 0, 0); border-top-color: rgb(255, 0, 0); border-bottom-color: rgb(255, 0, 0); background-color: rgba(255, 0, 0, 0); color: rgb(255, 0, 0); display: flex; width: 100%; -unity-text-align: upper-center; white-space: normal;" />
+                <engine:VisualElement style="flex-grow: 1; width: 100%; justify-content: center; align-items: center;">
+                    <engine:Button text="Login" name="login_button" class="ButtonDark" style="width: 50%;" />
+                    <engine:Label text="Sign Up Disini" name="sign_up_text" style="color: rgb(131, 107, 88); font-size: 12px;" />
+                </engine:VisualElement>
+            </engine:VisualElement>
+        </engine:VisualElement>
+        <engine:VisualElement name="SignUpMenu" style="flex-grow: 1; background-color: rgb(255, 252, 237); width: 100%; height: 100%; position: absolute; display: none;">
+            <engine:VisualElement style="flex-grow: 1; justify-content: flex-start; align-items: center;">
+                <engine:Label text="Ayo Sign Up" class="Header2" style="font-size: 25px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; flex-shrink: 1;" />
+                <engine:VisualElement style="flex-grow: 1; width: 80%; flex-shrink: 1;">
+                    <engine:Label text="Nama" name="Label" class="Text" style="font-size: 15px; -unity-text-align: middle-left; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                    <engine:TextField placeholder-text="Nama" name="sign_up_name_tf" style="background-color: rgb(0, 0, 0); margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                    <engine:Label text="Email" name="Label" class="Text" style="-unity-font-style: bold; font-size: 12px; -unity-text-align: middle-left; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" />
+                    <engine:TextField placeholder-text="Email" name="sign_up_email_tf" style="background-color: rgb(0, 0, 0); font-size: 12px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                    <engine:Label text="Password" name="Label" class="Text" style="-unity-font-style: bold; font-size: 12px; -unity-text-align: middle-left; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                    <engine:TextField placeholder-text="Password" name="sign_up_password_tf" password="true" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                    <engine:Label text="Masukan Kembali Password" class="Text" style="-unity-font-style: bold; font-size: 12px; -unity-text-align: middle-left; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" />
+                    <engine:TextField placeholder-text="Email" name="sign_up_password2_tf" password="true" style="background-color: rgb(0, 0, 0); margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                    <engine:Label text="Label" name="sign_up_error_label" style="border-left-color: rgb(255, 0, 0); border-right-color: rgb(255, 0, 0); border-top-color: rgb(255, 0, 0); border-bottom-color: rgb(255, 0, 0); background-color: rgba(255, 0, 0, 0); color: rgb(255, 0, 0); display: flex; -unity-text-align: upper-center; white-space: normal; width: 100%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" />
+                </engine:VisualElement>
+                <engine:VisualElement name="VisualElement" style="flex-grow: 1; width: 100%; justify-content: center; align-items: center;">
+                    <engine:Button text="Sign Up" name="sign_up_button" class="ButtonDark" style="background-color: rgb(131, 107, 88); -unity-font-style: bold; color: rgb(255, 255, 255); width: 39%; flex-shrink: 1; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+                    <engine:Label text="Login DIsini" name="login_text" style="color: rgb(131, 107, 88); font-size: 12px;" />
+                </engine:VisualElement>
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

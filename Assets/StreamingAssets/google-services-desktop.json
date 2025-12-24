@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "73727301884",
+    "firebase_url": "https://mini-money-me-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mini-money-me",
+    "storage_bucket": "mini-money-me.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73727301884:android:1e39e12aa8edb142781f79",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi7oLVshbD-ipDbjDJTCzwZ61KnyGaJmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

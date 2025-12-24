@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: fb7c4bf941a24a74bba191908d27cfbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3455083271818991544
+    second: Green Shoes_0
+  - first:
+      213: -4537904851699132145
+    second: Green Shoes_1
+  - first:
+      213: -4560165394990954013
+    second: Green Shoes_2
+  - first:
+      213: 5773131078104580402
+    second: Green Shoes_3
+  - first:
+      213: -6778866323786381982
+    second: Green Shoes_4
+  - first:
+      213: 2884048868350982029
+    second: Green Shoes_5
+  - first:
+      213: -9185951281785899263
+    second: Green Shoes_6
+  - first:
+      213: -9054021412437126273
+    second: Green Shoes_7
+  - first:
+      213: 1819177757176716590
+    second: Green Shoes_8
+  - first:
+      213: 865012769147606685
+    second: Green Shoes_9
+  - first:
+      213: -1578842414631935127
+    second: Green Shoes_10
+  - first:
+      213: -5067338225437662597
+    second: Green Shoes_11
+  - first:
+      213: -9096955373636129239
+    second: Green Shoes_12
+  - first:
+      213: -2733260383474952735
+    second: Green Shoes_13
+  - first:
+      213: -3753875363786237761
+    second: Green Shoes_14
+  - first:
+      213: -6560676110213198288
+    second: Green Shoes_15
+  - first:
+      213: 6327263377159191595
+    second: Green Shoes_16
+  - first:
+      213: -1615487109904966995
+    second: Green Shoes_17
+  - first:
+      213: 6343073916114741578
+    second: Green Shoes_18
+  - first:
+      213: -6388893896299034761
+    second: Green Shoes_19
+  - first:
+      213: -4708278540951337837
+    second: Green Shoes_20
+  - first:
+      213: -8014796638862639249
+    second: Green Shoes_21
+  - first:
+      213: -5664429615861067352
+    second: Green Shoes_22
+  - first:
+      213: 5325071219128995464
+    second: Green Shoes_23
+  - first:
+      213: 7275541197232570766
+    second: Green Shoes_24
+  - first:
+      213: 7591400780133087602
+    second: Green Shoes_25
+  - first:
+      213: 83076517201092123
+    second: Green Shoes_26
+  - first:
+      213: -5966708895219303476
+    second: Green Shoes_27
+  - first:
+      213: 1612031366394325717
+    second: Green Shoes_28
+  - first:
+      213: -678279268886134579
+    second: Green Shoes_29
+  - first:
+      213: -3216801479883668983
+    second: Green Shoes_30
+  - first:
+      213: 3967150068462183825
+    second: Green Shoes_31
+  - first:
+      213: 8928228582843878459
+    second: Green Shoes_32
+  - first:
+      213: 5421145022998202416
+    second: Green Shoes_33
+  - first:
+      213: -8451032621834670348
+    second: Green Shoes_34
+  - first:
+      213: 3630499318556306137
+    second: Green Shoes_35
+  - first:
+      213: 8606965061543032066
+    second: Green Shoes_36
+  - first:
+      213: -8075828053643990720
+    second: Green Shoes_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Shoes_0
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1017
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b75a2e0eebe2ff20800000000000000
+      internalID: 3455083271818991544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1011
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0993f9849f1601c0800000000000000
+      internalID: -4537904851699132145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_2
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1017
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9098aebb907b0c0800000000000000
+      internalID: -4560165394990954013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_3
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1011
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310130d0284e1050800000000000000
+      internalID: 5773131078104580402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 291
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265cad69ef0ace1a0800000000000000
+      internalID: -6778866323786381982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 13
+        width: 743
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d877de85a23360820800000000000000
+      internalID: 2884048868350982029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_7
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 291
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7397e2ee77a95280800000000000000
+      internalID: -9054021412437126273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 264
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d5fcf18840f3910800000000000000
+      internalID: 1819177757176716590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_9
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 264
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96583fc784210c00800000000000000
+      internalID: 865012769147606685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 239
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9632b8f5033d61ae0800000000000000
+      internalID: -1578842414631935127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 242
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72a70c5bb23da9b0800000000000000
+      internalID: -5067338225437662597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_12
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 242
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e66d0194f11c180800000000000000
+      internalID: -9096955373636129239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_13
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 239
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5d354a922811ad0800000000000000
+      internalID: -2733260383474952735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 217
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb85e6ade3e87ebc0800000000000000
+      internalID: -3753875363786237761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_15
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 217
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ec95476dbc3f4a0800000000000000
+      internalID: -6560676110213198288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_16
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c79eba484fec750800000000000000
+      internalID: 6327263377159191595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_17
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa54e26803a499e0800000000000000
+      internalID: -1615487109904966995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_18
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49a012ae10270850800000000000000
+      internalID: 6343073916114741578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_19
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7774f63e9d61657a0800000000000000
+      internalID: -6388893896299034761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_20
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 28
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394400fcc95d8aeb0800000000000000
+      internalID: -4708278540951337837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_21
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ff891dbe8b5c090800000000000000
+      internalID: -8014796638862639249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_22
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1166b9647e361b0800000000000000
+      internalID: -5664429615861067352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_23
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e07d37f0476e940800000000000000
+      internalID: 5325071219128995464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_24
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8184c1eb2ae7f460800000000000000
+      internalID: 7275541197232570766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_25
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 28
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279b47fd9c21a5960800000000000000
+      internalID: 7591400780133087602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_26
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e92f8f6a5272100800000000000000
+      internalID: 83076517201092123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 11
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb3a4e6fddf13da0800000000000000
+      internalID: -5966708895219303476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_28
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daa8b0acf51f5610800000000000000
+      internalID: 1612031366394325717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_29
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 0
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0c78f39944696f0800000000000000
+      internalID: -678279268886134579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_30
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902459ee810ab53d0800000000000000
+      internalID: -3216801479883668983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_31
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195ea59e7f52e0730800000000000000
+      internalID: 3967150068462183825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_32
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 11
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c06e1a79077eb70800000000000000
+      internalID: 8928228582843878459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_33
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0384fab0da6cb3b40800000000000000
+      internalID: 5421145022998202416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_34
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe6e4e1b96e7ba80800000000000000
+      internalID: -8451032621834670348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_35
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daa8df15ef126230800000000000000
+      internalID: 3630499318556306137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_36
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205787f2f15127770800000000000000
+      internalID: 8606965061543032066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Shoes_37
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0496a6b3c25ecef80800000000000000
+      internalID: -8075828053643990720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 25394bb6f2ab1044f9175876c428eeb8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Green Shoes_0: 3455083271818991544
+      Green Shoes_1: -4537904851699132145
+      Green Shoes_10: -1578842414631935127
+      Green Shoes_11: -5067338225437662597
+      Green Shoes_12: -9096955373636129239
+      Green Shoes_13: -2733260383474952735
+      Green Shoes_14: -3753875363786237761
+      Green Shoes_15: -6560676110213198288
+      Green Shoes_16: 6327263377159191595
+      Green Shoes_17: -1615487109904966995
+      Green Shoes_18: 6343073916114741578
+      Green Shoes_19: -6388893896299034761
+      Green Shoes_2: -4560165394990954013
+      Green Shoes_20: -4708278540951337837
+      Green Shoes_21: -8014796638862639249
+      Green Shoes_22: -5664429615861067352
+      Green Shoes_23: 5325071219128995464
+      Green Shoes_24: 7275541197232570766
+      Green Shoes_25: 7591400780133087602
+      Green Shoes_26: 83076517201092123
+      Green Shoes_27: -5966708895219303476
+      Green Shoes_28: 1612031366394325717
+      Green Shoes_29: -678279268886134579
+      Green Shoes_3: 5773131078104580402
+      Green Shoes_30: -3216801479883668983
+      Green Shoes_31: 3967150068462183825
+      Green Shoes_32: 8928228582843878459
+      Green Shoes_33: 5421145022998202416
+      Green Shoes_34: -8451032621834670348
+      Green Shoes_35: 3630499318556306137
+      Green Shoes_36: 8606965061543032066
+      Green Shoes_37: -8075828053643990720
+      Green Shoes_4: -6778866323786381982
+      Green Shoes_5: 2884048868350982029
+      Green Shoes_7: -9054021412437126273
+      Green Shoes_8: 1819177757176716590
+      Green Shoes_9: 865012769147606685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1077 @@
+fileFormatVersion: 2
+guid: d5ef48cd06e62d64893c439621121977
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6331602383082205436
+    second: Blue Shoes_0
+  - first:
+      213: -5711422851171689168
+    second: Blue Shoes_1
+  - first:
+      213: 7614175044620271218
+    second: Blue Shoes_2
+  - first:
+      213: 7449269749155846957
+    second: Blue Shoes_3
+  - first:
+      213: -4744862467475025683
+    second: Blue Shoes_4
+  - first:
+      213: -207906051898632964
+    second: Blue Shoes_5
+  - first:
+      213: 3622506072255945181
+    second: Blue Shoes_6
+  - first:
+      213: -7774127876969832617
+    second: Blue Shoes_7
+  - first:
+      213: 329848989380156558
+    second: Blue Shoes_8
+  - first:
+      213: -7586054274612232586
+    second: Blue Shoes_9
+  - first:
+      213: 266796988790641251
+    second: Blue Shoes_10
+  - first:
+      213: -1447048101154360384
+    second: Blue Shoes_11
+  - first:
+      213: -3638104858604517731
+    second: Blue Shoes_12
+  - first:
+      213: -8573854049942017320
+    second: Blue Shoes_13
+  - first:
+      213: -379247624393979893
+    second: Blue Shoes_14
+  - first:
+      213: 3611838913486196123
+    second: Blue Shoes_15
+  - first:
+      213: 3944327806631816074
+    second: Blue Shoes_16
+  - first:
+      213: -8154482063353850445
+    second: Blue Shoes_17
+  - first:
+      213: -6327122857218073431
+    second: Blue Shoes_18
+  - first:
+      213: -5131016266338023122
+    second: Blue Shoes_19
+  - first:
+      213: 4583200354267830101
+    second: Blue Shoes_20
+  - first:
+      213: 5483624959274059994
+    second: Blue Shoes_21
+  - first:
+      213: 2312174556356003256
+    second: Blue Shoes_22
+  - first:
+      213: -7409597834495112046
+    second: Blue Shoes_23
+  - first:
+      213: -6337683292155310130
+    second: Blue Shoes_24
+  - first:
+      213: -5097648328911455356
+    second: Blue Shoes_25
+  - first:
+      213: -1698906895965447776
+    second: Blue Shoes_26
+  - first:
+      213: -8144524576111864138
+    second: Blue Shoes_27
+  - first:
+      213: 2207111497071392379
+    second: Blue Shoes_28
+  - first:
+      213: -1212078450787319113
+    second: Blue Shoes_29
+  - first:
+      213: 8472923775599342049
+    second: Blue Shoes_30
+  - first:
+      213: -5738078516395353428
+    second: Blue Shoes_31
+  - first:
+      213: -8338116121660652488
+    second: Blue Shoes_32
+  - first:
+      213: -6507621389083930178
+    second: Blue Shoes_33
+  - first:
+      213: -5195882861825901210
+    second: Blue Shoes_34
+  - first:
+      213: 4045354781887533382
+    second: Blue Shoes_35
+  - first:
+      213: -484040547430989239
+    second: Blue Shoes_36
+  - first:
+      213: -7461461574980271763
+    second: Blue Shoes_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Shoes_0
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1017
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f4e59cd21a128a0800000000000000
+      internalID: -6331602383082205436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1011
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ddcd16d23fcb0b0800000000000000
+      internalID: -5711422851171689168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_2
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1017
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e3c388cdbfaa960800000000000000
+      internalID: 7614175044620271218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_3
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1011
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b5f727e5f116760800000000000000
+      internalID: 7449269749155846957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 291
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de05116a9bcd62eb0800000000000000
+      internalID: -4744862467475025683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 13
+        width: 353
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf49ded1c8e5d1df0800000000000000
+      internalID: -207906051898632964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_6
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 13
+        width: 353
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9d281741ab54230800000000000000
+      internalID: 3622506072255945181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_7
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 291
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f50ce82efbc1490800000000000000
+      internalID: -7774127876969832617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 264
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c968188ebd39400800000000000000
+      internalID: 329848989380156558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_9
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 264
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e77e274dbe8b690800000000000000
+      internalID: -7586054274612232586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 239
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3629200a27ad3b300800000000000000
+      internalID: 266796988790641251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 242
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c37ac53b6d0bebe0800000000000000
+      internalID: -1447048101154360384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_12
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 242
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96414718ead28dc0800000000000000
+      internalID: -3638104858604517731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_13
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 239
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da6925fa2d830980800000000000000
+      internalID: -8573854049942017320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 217
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0806128b44acbaf0800000000000000
+      internalID: -379247624393979893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_15
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 217
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d07400b54df1230800000000000000
+      internalID: 3611838913486196123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_16
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b2cfffd311db630800000000000000
+      internalID: 3944327806631816074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_17
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5df7684c575de80800000000000000
+      internalID: -8154482063353850445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_18
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac134da84b8138a0800000000000000
+      internalID: -6327122857218073431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_19
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29cb2c14e7fac8b0800000000000000
+      internalID: -5131016266338023122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_20
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 28
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557149a707cca9f30800000000000000
+      internalID: 4583200354267830101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_21
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad80ff2d8dfb91c40800000000000000
+      internalID: 5483624959274059994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_22
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5cb42328e761020800000000000000
+      internalID: 2312174556356003256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_23
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c4a6af602db2990800000000000000
+      internalID: -7409597834495112046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_24
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 35
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf8720df960c08a0800000000000000
+      internalID: -6337683292155310130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_25
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 28
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b7e557ad38149b0800000000000000
+      internalID: -5097648328911455356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_26
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a99487ed254c68e0800000000000000
+      internalID: -1698906895965447776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 11
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6d960bc06d8fe80800000000000000
+      internalID: -8144524576111864138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_28
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76fe9a763c31ae10800000000000000
+      internalID: 2207111497071392379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_29
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 0
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b28ae42215dd2fe0800000000000000
+      internalID: -1212078450787319113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_30
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17f8d484fd59570800000000000000
+      internalID: 8472923775599342049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_31
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa54f0bdff3e50b0800000000000000
+      internalID: -5738078516395353428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_32
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 11
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348578809f094c80800000000000000
+      internalID: -8338116121660652488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_33
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb11be253d840b5a0800000000000000
+      internalID: -6507621389083930178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_34
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66db35ee01484e7b0800000000000000
+      internalID: -5195882861825901210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_35
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64195dcadbcf32830800000000000000
+      internalID: 4045354781887533382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_36
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9428d79cfa75849f0800000000000000
+      internalID: -484040547430989239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Shoes_37
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d610316ea30937890800000000000000
+      internalID: -7461461574980271763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blue Shoes_0: -6331602383082205436
+      Blue Shoes_1: -5711422851171689168
+      Blue Shoes_10: 266796988790641251
+      Blue Shoes_11: -1447048101154360384
+      Blue Shoes_12: -3638104858604517731
+      Blue Shoes_13: -8573854049942017320
+      Blue Shoes_14: -379247624393979893
+      Blue Shoes_15: 3611838913486196123
+      Blue Shoes_16: 3944327806631816074
+      Blue Shoes_17: -8154482063353850445
+      Blue Shoes_18: -6327122857218073431
+      Blue Shoes_19: -5131016266338023122
+      Blue Shoes_2: 7614175044620271218
+      Blue Shoes_20: 4583200354267830101
+      Blue Shoes_21: 5483624959274059994
+      Blue Shoes_22: 2312174556356003256
+      Blue Shoes_23: -7409597834495112046
+      Blue Shoes_24: -6337683292155310130
+      Blue Shoes_25: -5097648328911455356
+      Blue Shoes_26: -1698906895965447776
+      Blue Shoes_27: -8144524576111864138
+      Blue Shoes_28: 2207111497071392379
+      Blue Shoes_29: -1212078450787319113
+      Blue Shoes_3: 7449269749155846957
+      Blue Shoes_30: 8472923775599342049
+      Blue Shoes_31: -5738078516395353428
+      Blue Shoes_32: -8338116121660652488
+      Blue Shoes_33: -6507621389083930178
+      Blue Shoes_34: -5195882861825901210
+      Blue Shoes_35: 4045354781887533382
+      Blue Shoes_36: -484040547430989239
+      Blue Shoes_37: -7461461574980271763
+      Blue Shoes_4: -4744862467475025683
+      Blue Shoes_5: -207906051898632964
+      Blue Shoes_6: 3622506072255945181
+      Blue Shoes_7: -7774127876969832617
+      Blue Shoes_8: 329848989380156558
+      Blue Shoes_9: -7586054274612232586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
